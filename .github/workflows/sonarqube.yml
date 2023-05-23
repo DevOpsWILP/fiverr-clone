@@ -22,7 +22,7 @@
 #          (You'll find this information in SonarQube by following the tutorial or by clicking on Project Information at the top-right of your project's homepage)
 
 # Feel free to take a look at our documentation (https://docs.sonarqube.org/latest/analysis/github-integration/)
-# or reach out to our community forum if you need some help (https://community.sonarsource.com/c/sq/10)
+# or reach out to our community forum if you nee some help (https://community.sonarsource.com/c/sq/10)
 
 name: SonarQube analysis
 
